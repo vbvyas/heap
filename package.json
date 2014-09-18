@@ -1,0 +1,25 @@
+{
+  "name": "heap",
+  "version": "0.0.0",
+  "description": "Heap data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vbvyas/heap.git"
+  },
+  "keywords": [
+    "heap",
+    "priorityqueue",
+    "maxheap",
+    "minheap"
+  ],
+  "author": "vbvyas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbvyas/heap/issues"
+  },
+  "homepage": "https://github.com/vbvyas/heap"
+}
