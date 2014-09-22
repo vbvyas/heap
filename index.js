@@ -1,5 +1,3 @@
-module.exports = Heap;
-
 function Heap(array) {
   this.sz = array.length;
   this.heap = array;
@@ -121,3 +119,5 @@ Heap.prototype.merge = function(array) {
   for (var i = this.sz - 1; i >= 0; i--)
     this.heapify(i);
 }
+
+module.exports = Heap;
